@@ -6,7 +6,7 @@ I'm a full stack SAP developer 💻 currently working at [INNOV8iON](https://inn
 
 - 👀 I’m interested in: JavaScript, Node.js, TypeScript, HTML, SAPUI5, Fiori Elements, ABAP, Java, git, tooling and architecture
 - 🌱 I’m currently learning: SAPUI5, Fiori Elements, Node.js and TypeScript
-- 💞️ I’m looking to collaborate: on tools helping to make e-invoices for standard like NLCIUS or PEPPOL-BIS-v3
+- 💞️ I’m looking to collaborate: on tools helping to make e-invoices for standards like NLCIUS or PEPPOL-BIS-v3
 - My current side project is [form2efact](https://github.com/JulianKuipers/form2efact)
 - 📫 How to reach me: 
   - [LinkedIn 💼](https://linkedin.com/in/juliankuipers)
