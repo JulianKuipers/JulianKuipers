@@ -10,7 +10,6 @@ I'm a full stack SAP developer 💻 currently working at [INNOV8iON](https://inn
 - My current side project is [form2efact](https://github.com/JulianKuipers/form2efact)
 - 📫 How to reach me: 
   - [LinkedIn 💼](https://linkedin.com/in/juliankuipers)
-  - [Twitter 🐦](https://twitter.com/juliankuipers)
   - [Website 🌍](https://juliankuipers.com)
   - [Email 📬](mailto:info@juliankuipers.com)
 
